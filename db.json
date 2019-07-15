@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Robert Gomez",
+      "email": "monamimonamus@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Richard Cruz",
+      "email": "ryan@kestrelddm.com"
+    },
+    {
+      "id": 3,
+      "name": "Joemar Santos",
+      "email": "kentmordikai@yahoo.com"
+    }
+  ]
+}
